@@ -2,5 +2,5 @@
 ---
 deployment:
   tasks:
-	- export DEPLOYPATH=/home3/cat39971/public_html/
+	- export DEPLOYPATH=/home3/cat39971/public_html/deploy/
 	- /bin/cp -r * $DEPLOYPATH
